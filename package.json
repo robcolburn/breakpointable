@@ -1,0 +1,27 @@
+{
+  "name": "react-breakpointable",
+  "version": "0.1.0",
+  "description": "A React mixin to respond to changing viewport breakpoints",
+  "main": "Breakpointable.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robcolburn/react-breakpointable"
+  },
+  "keywords": [
+    "react",
+    "mixin",
+    "breakpoints"
+  ],
+  "author": "Rob Colburn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcolburn/react-breakpointable/issues"
+  },
+  "homepage": "https://github.com/robcolburn/react-breakpointable",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
