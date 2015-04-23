@@ -27,7 +27,7 @@ var Breakpointable = {
     this.setState({breakpoint: this.getBreakpointAt(this.getWindowWidth())});
   },
   getWindowWidth: function () {
-    window.innerWidth || window.clientWidth || window.document.documentElement.clientWidth;
+    return window.innerWidth || window.clientWidth || window.document.documentElement.clientWidth;
   },
   getBreakpointAt: function (maxWidth) {
     var width = -1;
