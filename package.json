@@ -1,6 +1,6 @@
 {
   "name": "react-breakpointable",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A React mixin to respond to changing viewport breakpoints",
   "main": "Breakpointable.js",
   "scripts": {
